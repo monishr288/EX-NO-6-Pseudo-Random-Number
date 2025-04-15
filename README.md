@@ -45,4 +45,4 @@ int main() {
 ![Screenshot 2025-04-15 141510](https://github.com/user-attachments/assets/4a2e1f29-0c0b-4c59-a0a9-bba2dbc781c1)
 
 # RESULT:
-The program is executed successfully.
+The program is executed successfully
